@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "cli password manager"
 authors = ["Rajesh Khadka <rajesh.k.khadka@gmail.com>"]
 readme = "README.md"
-packages = [{include = "pass_cli"}]
+packages = [{ include = "pass_cli" }]
 
 [tool.poetry.dependencies]
 python = "^3.9"
