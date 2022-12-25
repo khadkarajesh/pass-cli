@@ -1,6 +1,6 @@
 from click.testing import CliRunner
 
-from pm import generate
+from pm.scripts.password import generate
 
 
 def test_generate():
